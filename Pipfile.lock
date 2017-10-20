@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "41b18d8b19235ee91dae5969969312a7651a112da438e81747387a2d2cadb29d"
+            "sha256": "e23871f02bee0670d8df3a2fb5f3fce92e6fcf1d2b36eb69300d368981858b6e"
         },
         "host-environment-markers": {
             "implementation_name": "cpython",
@@ -92,10 +92,10 @@
         },
         "ipywidgets": {
             "hashes": [
-                "sha256:ee76f5c82d78541865bfd713183f66921b55232744ae7a2c2312a173a08a5a95",
-                "sha256:cc602fb77f8d979c3d7fd90f7a28842dde8514554e1efddc94b39ee7e3046cde"
+                "sha256:a805635c038783f020bbad50f909a7367a38cae80274f562f82d1f77282e6925",
+                "sha256:f98b4c3719097c9d2e6489f303db520b20bd4de3e0b1d6d4f92f81bfe3c2a0c8"
             ],
-            "version": "==7.0.2"
+            "version": "==7.0.3"
         },
         "jedi": {
             "hashes": [
@@ -427,6 +427,12 @@
             ],
             "version": "==0.19.1"
         },
+        "seaborn": {
+            "hashes": [
+                "sha256:6702978b903d0284446e935916b980dfebae4063c18ad8eb6e8f9e76d0257eae"
+            ],
+            "version": "==0.8.1"
+        },
         "simplegeneric": {
             "hashes": [
                 "sha256:dc972e06094b9af5b855b3df4a646395e43d1c9d0d39ed345b7393560d0b9173"
@@ -486,10 +492,10 @@
         },
         "widgetsnbextension": {
             "hashes": [
-                "sha256:42aaddee751e36a748bcd18e9d21c46599fca4946ef6b944997a0fff2df236cd",
-                "sha256:b438aab5b127b8daba57f88202316ea01b53b3bba8a28053d97b979f047cdefa"
+                "sha256:b8fc195416f02a7b7c4aa385715ed71d9e911909b9a4869ab55b1c7f3056cac6",
+                "sha256:966210cad9514ef0f382cd724e7987a28aeca08254f86b564afebce69c6646dc"
             ],
-            "version": "==3.0.4"
+            "version": "==3.0.5"
         }
     },
     "develop": {}
